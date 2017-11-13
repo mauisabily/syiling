@@ -1,0 +1,9 @@
+Building Syiling
+
+See doc/readme-qt.rst for instructions on building Syiling-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Syiling.
+
+See doc/build-*.txt for instructions on building syilingd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Syiling.
