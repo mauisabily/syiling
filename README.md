@@ -1,7 +1,7 @@
 Syiling integration/staging tree
 ================================
 
-http://www.syiling.org
+http://www.syiling.ml
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2017-2023 Syiling Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 ```
 For more information, as well as an immediately useable, binary version of
-the Syiling client sofware, see http://sen.cryptodev.my.
+the Syiling client sofware, see http://syiling.ml.
 
 License
 -------
