@@ -57,6 +57,14 @@ requests than we can review and test. Please be patient and help out, and
 remember this is a security-critical project where any mistake might cost people
 lots of money.
 
+### Ubuntu 18.04.1 LTS Available
+Now can compile a daemon for Ubuntu 18.04.1 LTS using the following instructions.
+
+	sudo apt-get update
+	sudo apt-get upgrade
+
+	sudo apt-get install build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev git libssl1.0-dev libdb-dev libdb++-dev libboost-all-dev libminiupnpc-dev libevent-dev libcrypto++-dev libgmp3-dev
+
 ### Automated Testing
 
 Developers are strongly encouraged to write unit tests for new code, and to
