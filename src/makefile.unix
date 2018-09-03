@@ -201,3 +201,4 @@ clean:
 	-cd leveldb && $(MAKE) clean || true
 
 FORCE:
+	-cp syilingd syiling-cli
